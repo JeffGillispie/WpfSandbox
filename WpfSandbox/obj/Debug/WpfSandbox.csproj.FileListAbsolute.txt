@@ -1,0 +1,15 @@
+X:\dev\CSharp\Work\WpfSandbox\WpfSandbox\bin\Debug\WpfSandbox.exe.config
+X:\dev\CSharp\Work\WpfSandbox\WpfSandbox\bin\Debug\WpfSandbox.exe
+X:\dev\CSharp\Work\WpfSandbox\WpfSandbox\bin\Debug\WpfSandbox.pdb
+X:\dev\CSharp\Work\WpfSandbox\WpfSandbox\obj\Debug\WpfSandbox.csprojResolveAssemblyReference.cache
+X:\dev\CSharp\Work\WpfSandbox\WpfSandbox\obj\Debug\MainWindow.g.cs
+X:\dev\CSharp\Work\WpfSandbox\WpfSandbox\obj\Debug\App.g.cs
+X:\dev\CSharp\Work\WpfSandbox\WpfSandbox\obj\Debug\WpfSandbox_MarkupCompile.cache
+X:\dev\CSharp\Work\WpfSandbox\WpfSandbox\obj\Debug\WpfSandbox_MarkupCompile.lref
+X:\dev\CSharp\Work\WpfSandbox\WpfSandbox\obj\Debug\MainWindow.baml
+X:\dev\CSharp\Work\WpfSandbox\WpfSandbox\obj\Debug\WpfSandbox.g.resources
+X:\dev\CSharp\Work\WpfSandbox\WpfSandbox\obj\Debug\WpfSandbox.Properties.Resources.resources
+X:\dev\CSharp\Work\WpfSandbox\WpfSandbox\obj\Debug\WpfSandbox.csproj.GenerateResource.Cache
+X:\dev\CSharp\Work\WpfSandbox\WpfSandbox\obj\Debug\WpfSandbox.exe
+X:\dev\CSharp\Work\WpfSandbox\WpfSandbox\obj\Debug\WpfSandbox.pdb
+X:\dev\CSharp\Work\WpfSandbox\WpfSandbox\obj\Debug\GeneratedInternalTypeHelper.g.cs
